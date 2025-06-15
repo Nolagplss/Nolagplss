@@ -11,6 +11,10 @@ Desarrollador de software especializado en .NET, Java y Kotlin, con pasión por 
 
 ## 🛠 Proyectos destacados
 
+- **Documental**  
+  Gestor documental para centros educativos con autenticación por roles y generación de informes PDF.  
+  [Repositorio](https://github.com/Nolagplss/ProyectoGestionDocumental)
+  
 - **Chemopredictionsuite**  
   Aplicación WPF para predicciones químicas con API integrada, tablas interactivas y exportación a Excel.  
   [Repositorio](https://github.com/Nolagplss/ChemoPredictionSuite/)
@@ -19,9 +23,7 @@ Desarrollador de software especializado en .NET, Java y Kotlin, con pasión por 
   App híbrida con backend en Spring Boot y frontend Android en Kotlin para gestión de parques y especies. CRUD completo y sincronización en tiempo real.  
   [Repositorio](https://github.com/Nolagplss/ParquesConSpringboot)
 
-- **Documental**  
-  Gestor documental para centros educativos con autenticación por roles y generación de informes PDF.  
-  [Repositorio](https://github.com/Nolagplss/ProyectoGestionDocumental)
+
 
 ## 💡 Sobre mí
 
