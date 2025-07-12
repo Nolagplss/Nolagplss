@@ -24,7 +24,9 @@ Desarrollador de software especializado en .NET, Java y Kotlin, con pasión por 
   App híbrida con backend en Spring Boot y frontend Android en Kotlin para gestión de parques y especies. CRUD completo y sincronización en tiempo real.  
   [Repositorio](https://github.com/Nolagplss/ProyectoParquesSpring.git)
 
-
+- **Sports Center Api**  
+  API desarrollada en .NET para la gestión de instalaciones deportivas, usuarios y reservas. Incluye control de acceso por roles, validaciones de disponibilidad, penalizaciones y lógica para evitar duplicados o reservas fuera de rango...
+  [Repositorio](https://github.com/Nolagplss/ProyectoSports.git)
 
 ## 💡 Sobre mí
 
