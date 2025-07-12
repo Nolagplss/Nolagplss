@@ -26,6 +26,7 @@ Desarrollador de software especializado en .NET, Java y Kotlin, con pasión por 
 
 - **Sports Center Api**  
   API desarrollada en .NET para la gestión de instalaciones deportivas, usuarios y reservas. Incluye control de acceso por roles, validaciones de disponibilidad, penalizaciones y lógica para evitar duplicados o reservas fuera de rango...
+  
   [Repositorio](https://github.com/Nolagplss/ProyectoSports.git)
 
 ## 💡 Sobre mí
