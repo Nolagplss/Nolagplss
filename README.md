@@ -7,7 +7,8 @@ Desarrollador de software especializado en .NET, Java y Kotlin, con pasión por 
 - **Backend:** C# (.NET), Java (Spring Boot), Kotlin (Android), Python (Django)
 - **Frontend:** HTML, CSS, JavaScript
 - **Frontend (Escritorio / Móvil):** WPF (C#), Android (Kotlin)
-- **Bases de datos:** MySQL, MongoDB  
+- **Bases de datos:** MySQL, MongoDB, PostreSQL  
+- **Testing:** xUnit, JUnit 
 - **Arquitectura & prácticas:** MVVM, MVC, REST APIs, SOLID, Clean Code, Git
 
 ## 🛠 Proyectos destacados
