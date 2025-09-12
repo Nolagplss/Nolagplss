@@ -1,11 +1,11 @@
 # 👋 Hola, soy Samuel Radu Dragomir
 
-Desarrollador de software especializado en .NET, Java y Kotlin, con pasión por crear soluciones limpias, eficientes y centradas en el usuario.
+Desarrollador de software especializado en .NET y Java, con pasión por crear soluciones limpias, eficientes y centradas en el usuario.
 
 ## 🚀 Tecnologías
 
 - **Backend:** C# (.NET), Java (Spring Boot), Kotlin (Android), Python (Django)
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS, JavaScript, TypeScript (Angular)
 - **Frontend (Escritorio / Móvil):** WPF (C#), Android (Kotlin)
 - **Bases de datos:** MySQL, MongoDB, PostreSQL  
 - **Testing:** xUnit, JUnit 
